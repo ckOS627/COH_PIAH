@@ -31,8 +31,8 @@ Pré-requisitos:
 - Python 3.7+ instalado e acessível no seu PATH (Windows, PowerShell).
 
 No PowerShell (Windows):
-1) Navegue até a pasta do arquivo (se já estiver em `C:\Users\claud`, ignore):
-   - `cd C:\Users\claud`
+1) Navegue até a pasta do arquivo (se já estiver em `C:\Users\`, ignore):
+   - `cd C:\Users\`
 2) Execute o programa:
    - `python .\coh_piah.py`
 
@@ -271,3 +271,4 @@ similaridade = (|a1-b1| + |a2-b2| + ... + |a6-b6|) / 6
 
 ## Licença
 Uso educacional/didático.
+
